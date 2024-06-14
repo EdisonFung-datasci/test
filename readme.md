@@ -1,9 +1,3 @@
-# hello betty
+# hello
 
-
-
-
-
-
-
-# for fun
+# hi
