@@ -1,3 +1,1 @@
-edison and danielle
-gilmore girls
-maggie
+first chapter
